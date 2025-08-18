@@ -1,3 +1,7 @@
+
+New 1.51V With Bootsecure Port and TPM2 fix.
+
+
 # QIYIDA-X99-D4-V2.0
 
 
