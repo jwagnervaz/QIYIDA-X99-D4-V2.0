@@ -27,7 +27,17 @@ New 152 With Bootsecure Port and TPM2 fix.
 12 - Integraded Rebar and Above 4G menu
 
 
+
+
 and much much more.
+
+
+
+
+Donate and support this project!
+[Donate Here!](https://www.paypal.com/donate/?business=CCB45NYKUULWE&no_recurring=0&item_name=Thanks+for+your+donate%21&currency_code=USD)
+---
+
 
 # QIYIDA-X99-D4-V2.0
 
