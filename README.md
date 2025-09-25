@@ -24,6 +24,8 @@ New 152 With Bootsecure Port and TPM2 fix.
 
 11 - OC by bios menu to 16XX v3 and I7 X 
 
+12 - Integraded Rebar and Above 4G menu
+
 
 and much much more.
 
