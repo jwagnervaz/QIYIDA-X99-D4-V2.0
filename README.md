@@ -26,7 +26,7 @@ New 152 With Bootsecure Port and TPM2 fix.
 
 12 - Integraded Rebar and Above 4G menu
 
-
+13 - MacOS Opencore boot support
 
 
 and much much more.
