@@ -1,4 +1,3 @@
-
 New 152 With Bootsecure Port and TPM2 fix.
 
 
@@ -28,6 +27,9 @@ New 152 With Bootsecure Port and TPM2 fix.
 
 13 - MacOS Opencore boot support
 
+14 - 1st X99 to support M2 NVME SSD AHCI via PCIE adapter ( APPLE/SAMSUNG/OTHERS)
+
+15 - Portuguese (BR) option to BIOS language.
 
 and much much more.
 
@@ -36,6 +38,8 @@ and much much more.
 
 Donate and support this project!
 [Donate Here!](https://www.paypal.com/donate/?business=CCB45NYKUULWE&no_recurring=0&item_name=Thanks+for+your+donate%21&currency_code=USD)
+---
+
 ---
 
 
