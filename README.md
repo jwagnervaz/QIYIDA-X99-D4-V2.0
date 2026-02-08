@@ -1,6 +1,12 @@
 New 152 With Bootsecure Port and TPM2 fix.
 
 
+
+
+ET VEJA SEU DISCORD!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
 1 - Bootsecure
 
 2 - TPM support
