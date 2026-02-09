@@ -3,7 +3,6 @@ New 152 With Bootsecure Port and TPM2 fix.
 
 
 
-ET VEJA SEU DISCORD!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 
